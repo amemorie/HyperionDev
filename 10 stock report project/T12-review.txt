@@ -1,0 +1,19 @@
+Angela Mortier
+Task 12 - Beginner Data Structures - Lists and Dictionaries
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Christiaan Maritz
+Date Submitted: June 12, 2023, 2:46 p.m.
+Date Reviewed: June 12, 2023, 4:21 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Well done, you've done an excellent job here. Simulating a reall life stock report program. You've defined a list on line 88. You've also made use of calculate_stock_value() to calculate the total stock as well as the function cafe() to combine all your functionality of your program.
+
+
+Overall
+Overall you've done a great job here, if you feel you need any 1:1 guidance feel free to book a call with a mentor.

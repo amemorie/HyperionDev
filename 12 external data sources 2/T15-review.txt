@@ -1,0 +1,24 @@
+Angela Mortier
+Task 15 - Working with external data sources - Output
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Kelcey Webb
+Date Submitted: June 15, 2023, 9:28 a.m.
+Date Reviewed: June 19, 2023, 8:08 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Excellent work with this submission Angela. Your solution is exceptionally well done and you have done a great job of extending your program to incorporate additional functionality. You have demonstrated a clear understanding of writing to text files and working with external data sources. Your work with regex is awesome and you've done well to add some defensive programming to your work. Your docstrings are terrific too, well done!
+
+
+Improve
+On line 139 of your code, the 'continue' statement is redundant and not necessary in this particular case. It is generally good practice to remove any unnecessary code in order to keep your code neat and save some computational space. Feel free to check out his link for more info on using the 'continue' statement:
+https://www.geeksforgeeks.org/python-continue-statement/
+
+
+Overall
+Overall you did an excellent job with this task! Keep up the good work Angela💯

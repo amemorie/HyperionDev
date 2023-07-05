@@ -1,0 +1,27 @@
+Angela Mortier
+Task 11 - String Handling
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Marcus Naidoo
+Date Submitted: March 30, 2023, 2:04 p.m.
+Date Reviewed: April 5, 2023, 10:31 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Great work, Angela. You showed excellent understanding and your code is well commented, which makes it easy to follow and understand. I like your overall approach to this task, also you did a good job with defining your own function.
+
+
+Improve
+RECOMMENDATION:
+
+1. Please refer to the link below, it gives you more information on defining your own functions.
+
+https://www.geeksforgeeks.org/python-user-defined-functions/
+
+
+Overall
+Well done, keep up the great work. Looking forward to your next submission.

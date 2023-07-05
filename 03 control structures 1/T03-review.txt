@@ -1,0 +1,19 @@
+Angela Mortier
+Task 3 - Beginner Control Structures: The Boolean Data type and if, else, and elif Statements
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Shingai Dzinotyiweyi
+Date Submitted: March 16, 2023, 3:18 p.m.
+Date Reviewed: March 19, 2023, 12:58 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Thanks for submitting your work, Angela. Your code and logic work perfectly and your use of comments to explain your logic is done very well. You have shown that you understand how to use conditional statements very well. Nicely done!
+
+
+Overall
+You have completed this assignment successfully. Excellent work, Angela. 👍✨

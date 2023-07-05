@@ -1,0 +1,31 @@
+Angela Mortier
+Task 16 - Beginner Programming with Functions - Defining Your Own Functions
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Leon Stevens
+Date Submitted: June 20, 2023, 2:15 p.m.
+Date Reviewed: June 22, 2023, 11:43 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Great stuff, Angela, keep up the good work!
+
+The code makes excellent use of docstrings to document the code.
+Nice use of type-hinting when declaring the variables and passing parameters in function calls. You have used data structures like the flight_options dictionary well to develop a good solution.
+
+This is an exceptionally well-written program. You are using best practices for input validation and exception handling. The functions are well-named, commented and styled. The code matches pep8 standard styling. The UI is informative and intuitive, making it easy to use.
+Your solution is exceptionally well done and you have done a great job of extending your program to incorporate additional functionality.
+
+
+The program is exceptional, but with so many functions and a relatively long file length of over 600 lines, It would be a good idea to break the code up into multiple files, which would allow you to reuse some of the excellent input validation code in other projects.
+Check this link for some advice on breaking up your code into reusable module files.
+https://pythonhowtoprogram.com/how-to-split-and-organise-your-source-code-into-multiple-files-in-python-3/
+
+
+Overall
+This was awesome, Angela. You really nailed this task.
+I'm looking forward to the next submission!

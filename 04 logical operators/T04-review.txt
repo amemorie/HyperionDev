@@ -1,0 +1,23 @@
+Angela Mortier
+Task 4 - Logical Programming - Operators
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Shingai Dzinotyiweyi
+Date Submitted: March 18, 2023, 11:31 a.m.
+Date Reviewed: March 19, 2023, 5:29 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Thanks for submitting your work, Angela. Your code and logic work perfectly 
+and your use of comments to explain your logic is done very well. 
+I appreciate the effort you put into personalizing this program for 
+the user with your output messages. It's great attention to detail. 
+Nicely done!
+
+
+Overall
+You have completed this assignment successfully. Excellent work, Angela. 👍✨

@@ -1,0 +1,44 @@
+==============================================================================
+Total number of registered users: 5
+Total number of tasks that have been generated and tracked by the system: 5
+==============================================================================
+User: admin
+
+Total number of tasks assigned to admin :                                   1
+Percentage of all tasks assigned to admin:                               20.0 %
+Percentage of tasks assigned to admin that are completed:                 0.0 %
+Percentage of tasks assigned to admin that are uncompleted:             100.0 %
+Percentage of tasks assigned to admin that are uncompleted and overdue: 100.0 %
+==============================================================================
+User: bob
+
+Total number of tasks assigned to bob :                                   1
+Percentage of all tasks assigned to bob:                               20.0 %
+Percentage of tasks assigned to bob that are completed:                 0.0 %
+Percentage of tasks assigned to bob that are uncompleted:             100.0 %
+Percentage of tasks assigned to bob that are uncompleted and overdue:   0.0 %
+==============================================================================
+User: cary
+
+Total number of tasks assigned to cary :                                   1
+Percentage of all tasks assigned to cary:                               20.0 %
+Percentage of tasks assigned to cary that are completed:               100.0 %
+Percentage of tasks assigned to cary that are uncompleted:               0.0 %
+Percentage of tasks assigned to cary that are uncompleted and overdue:   0.0 %
+==============================================================================
+User: daisy
+
+Total number of tasks assigned to daisy :                                   2
+Percentage of all tasks assigned to daisy:                               40.0 %
+Percentage of tasks assigned to daisy that are completed:                 0.0 %
+Percentage of tasks assigned to daisy that are uncompleted:             100.0 %
+Percentage of tasks assigned to daisy that are uncompleted and overdue:   0.0 %
+==============================================================================
+User: evan
+
+Total number of tasks assigned to evan :                                   0
+Percentage of all tasks assigned to evan:                                0.0 %
+Percentage of tasks assigned to evan that are completed:                 0.0 %
+Percentage of tasks assigned to evan that are uncompleted:               0.0 %
+Percentage of tasks assigned to evan that are uncompleted and overdue:   0.0 %
+==============================================================================

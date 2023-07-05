@@ -1,0 +1,10 @@
+==============================================================================
+Tasks on 2023-06-21
+==============================================================================
+Total number of tasks:                                       5
+Total number of completed tasks:                             1
+Total number of uncompleted tasks:                           4
+Total number of tasks that are uncompleted and overdue:      1
+Percentage of tasks that are uncompleted:                 80.0 %
+Percentage of tasks that are uncompleted and overdue:     20.0 %
+==============================================================================

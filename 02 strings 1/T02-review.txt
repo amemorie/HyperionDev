@@ -1,0 +1,27 @@
+Angela Mortier
+Task 2 - The String Data Type
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Snelisile Makhanya
+Date Submitted: March 16, 2023, 10:31 a.m.
+Date Reviewed: March 17, 2023, 1:35 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Thank you for your submission, Angela
+- Your approach and use of string methods in your solution are excellent and efficient.
+- Your code is written in an excellent manner and structure that follows industry standards.
+
+
+Improve
+- Python has a set of built-in methods that you can use on strings. Some of those methods have not been covered in this task.
+To learn more on this topic, visit:
+https://www.w3schools.com/python/python_ref_string.asp
+
+
+Overall
+Excellent submission overall, Angela. Keep it up!

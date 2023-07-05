@@ -1,0 +1,25 @@
+Angela Mortier
+Task 17 - Capstone Project - Lists, Functions, and String Handling
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Ronny Nijimbere
+Date Submitted: June 21, 2023, 10:13 a.m.
+Date Reviewed: June 22, 2023, 7:30 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Excellent work Angela. You were able to implement an efficient solution for your Capstone Project. You have shown an excellent understanding on the concepts that you have learnt thus far (Working with built in functions, defining your own functions, lists, dictionaries). Excellent use of docstrings to document your functions. Excellent.
+
+
+Improve
+Kindly go through these resources to assist you with your upcoming task:
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3
+https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3
+
+
+Overall
+Excellent effort overall, Angela. All the best with the next task.

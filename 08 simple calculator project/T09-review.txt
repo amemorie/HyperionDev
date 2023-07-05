@@ -1,0 +1,27 @@
+Angela Mortier
+Task 9 - Towards Defensive Programming
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Chris Smit
+Date Submitted: March 30, 2023, 11:33 a.m.
+Date Reviewed: April 6, 2023, 1:49 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+✅ Fantastic work Angela, you have created a robust calculator app that is able to handle errors while also informing the user as to what occurred and allowing subsequent re-attempts.
+✅ I love the creative approach with using a for loop with a range of 2 on line 46 that ties in with the while loops on lines 61 and 73 to arrange your input operation in sequence!
+✅ Super comprehensive logic to evaluate the equations from the chosen file, really well done! It was only required to read from the file but taking the step to actually evaluate the equations is commendable!
+
+
+Improve
+🔎 After entering the 2nd number the program once again displays the information on lines 58 & 59 which at this stage is not required, these two lines would have been better placed inside the while loop on line 61.
+🔎 Your program indicates that entering "C-c" will exit the program on line 53 but entering this value has no effect, this might have been an oversight but be on the lookout for loose ends such as these when testing your programs.
+🔎 Great job with organizing everything into a function but the function is super long and a bit difficult to understand due to length. What would improve this in future would be to break up your logic into more functions to structure the code more modularly. For instance you the if on line 42 and the else on line 88 could have been separate function that you simply call from a main function.
+
+
+Overall
+📌 Well done Angela, you nailed this task!

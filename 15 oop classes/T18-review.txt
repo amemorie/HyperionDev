@@ -1,0 +1,30 @@
+Angela Mortier
+Task 18 - Introduction to OOP I - Classes
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Leon Stevens
+Date Submitted: June 21, 2023, 12:20 p.m.
+Date Reviewed: June 22, 2023, 2:09 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Excellent submission overall, Angela. Keep it up!
+
+You've shown a deep understanding of Classes and OOP.
+The code makes excellent use of defensive programming using both input validation and exception handling.
+The class definition is well-written and the methods are well-constructed.
+It's great to see you using docstrings to document your functions. Your comments will help this code to be understandable and maintainable.
+
+
+Improve
+Try using the Tabulate library to display data to the user.
+
+https://pypi.org/project/tabulate/
+
+
+Overall
+This was awesome, Angela. I'm looking forward to the next submission!

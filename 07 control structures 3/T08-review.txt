@@ -1,0 +1,25 @@
+Angela Mortier
+Task 8 - Beginner Control Structures - For Loop
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Raynard Vermeulen
+Date Submitted: March 24, 2023, 10:22 a.m.
+Date Reviewed: March 27, 2023, 11:06 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Excellent submission, Angela. You have done an exceptional job tackling the requirements of this task. You have shown that you understand how to work with for loops and implement them efficiently. Your solution is very efficient and easy to understand. Furthermore, well done on your comments and variable names.
+
+
+Improve
+While you did a great job, I recommend that you could have kept your variable in the for loop " i " instead of " ii ". It would be a small improvement in your code.
+
+I also recommend that you could take a look at string handling to get a head start in your course. It's a critical part of programming, especially when you start learning about text files. You can learn more in depth about string handling on the following site. https://www.geeksforgeeks.org/python-string-methods/
+
+
+Overall
+Excellent submission overall, Angela. Keep it up!

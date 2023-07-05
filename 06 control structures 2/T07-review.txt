@@ -1,0 +1,23 @@
+Angela Mortier
+Task 7 - Beginner Control Structures - While Loop
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Raynard Vermeulen
+Date Submitted: March 24, 2023, 9:51 a.m.
+Date Reviewed: March 24, 2023, 3:58 p.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Great submission, you have done a great job tackling the various requirements of this task. You have shown that you understand how to work with while loops and lists in Python. Furthermore, you have used try except, which shows that you like to take initiative to learn more of programming.
+
+
+Improve
+While you did a great job, I recommend that you could improve on your comments. There are a couple of unnecessary comments and some comments that don't follow the PEP8 rules. It's important to write clear and concise comments that explain the purpose of your code. Be relevant and comment frequently, but avoid unnecessary comments and technical jargon. You could also look at the PEP8 Guidelines on this official website to help you with getting your code and comments on the PEP8 Standard. https://peps.python.org/pep-0008/
+
+
+Overall
+Excellent submission overall, Angela. Keep it up!

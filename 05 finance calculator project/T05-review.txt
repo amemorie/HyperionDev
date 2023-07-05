@@ -1,0 +1,23 @@
+Angela Mortier
+Task 5 - Capstone Project - Variables and Control Structures
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Salma Maikano
+Date Submitted: March 20, 2023, 7:22 p.m.
+Date Reviewed: March 21, 2023, 8:58 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Well done, Angela You have explored different libraries independently, and chosen the best tools to use in your solution. I can see you've put a lot of effort into your tasks here. I love your detailed comments and how well-named your variables are.
+
+
+Improve
+Please not to overwhelm your code with comments, it makes it a little hard to read your code properly
+
+
+Overall
+Great stuff, Angela, keep up the good work!

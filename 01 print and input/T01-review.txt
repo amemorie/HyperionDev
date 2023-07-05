@@ -1,0 +1,23 @@
+Angela Mortier
+Task 1 - Your First Computer Program, and Using Variables
+Course: DfE - Software Engineering (Fundamentals)
+Reviewed By: Salma Maikano
+Date Submitted: March 16, 2023, 9:52 a.m.
+Date Reviewed: March 16, 2023, 11:15 a.m.
+Student number: AM22120006819
+Scores
+Completeness: 4 / 4
+Efficiency: 4 / 4
+Style: 4 / 4
+Documentation: 4 / 4
+
+Positive
+Hi Angela, Your solution matches the given specifications. Well done. You show beyond doubt that you have mastered the basics of creating Python code. You are on the right track and in this task, you have shown that you are ready to tackle stuff in Python.
+
+
+Improve
+You should try to comment on your work, this will not only help you remember what you did when you come back to the task at a later stage but also helps you understand the concepts even more.
+
+
+Overall
+Great stuff, Angela, keep up the good work!
